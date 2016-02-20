@@ -12,6 +12,8 @@
 	<string>/\*\*|\{\s*$</string>
 	<key>foldingStopMarker</key>
 	<string>\*\*/|^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~D</string>
 	<key>name</key>
 	<string>DustJS</string>
 	<key>patterns</key>
